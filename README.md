@@ -1,4 +1,4 @@
-# HypixelSkyblockRatBuilder
+# Hypixel Skyblock Rat Builder
 
 # **THE RAT TAKES ALL THIS**
 - SSID
