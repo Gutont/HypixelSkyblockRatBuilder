@@ -31,7 +31,8 @@ The tool is designed to extract various types of data, including:
 ## 🎥 Video Guides  
 
 1. **How to Use BUILDER**  
-   [Video Guide]([https://www.youtube.com/watch?v=6Yi5gkXQqwE&t=9s))
+   [Video Guide](https://www.youtube.com/watch?v=6Yi5gkXQqwE&t=9s)
+   
 
 ---
 
