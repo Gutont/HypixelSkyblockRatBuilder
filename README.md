@@ -15,7 +15,7 @@
 - COOKIE
 - AUTOFILL
 
-Join In Discord 
-discord.gg/YX5AtJZXre
+
+[Join In Discord ](https://discord.gg/YX5AtJZXre)
 
 #HandRAT In Top 1
